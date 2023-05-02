@@ -1,7 +1,5 @@
 Mañana hay sistemas, tengo miedo :(
 Y ademas el viernes tambien :__(
-<<<<<<< HEAD
 
-=======
 Por fin feria :)
->>>>>>> cb8c992f9bbbb3699ca34dcb7385b89ad6891ebe
+
